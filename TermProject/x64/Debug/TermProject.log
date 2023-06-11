@@ -1,0 +1,12 @@
+﻿  ChildView.cpp
+C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\TermProject\ChildView.h(28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\TermProject\ChildView.cpp(196,21): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\TermProject\ChildView.cpp(202,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MainFrm.cpp
+C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\TermProject\ChildView.h(28): warning C4305: “初始化”: 从“double”到“float”截断
+  Particle.cpp
+  ParticleEmitter.cpp
+  TermProject.cpp
+C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\TermProject\ChildView.h(28): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  TermProject.vcxproj -> C:\Users\1\OneDrive\SS2023\CSE472\project\Term Project\TermProject\x64\Debug\TermProject.exe
